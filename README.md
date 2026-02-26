@@ -30,8 +30,7 @@ This project is created to understand API consumption, React hooks, state manage
 
 ## 🌐 API Used
 
-TheMealDB – Vegetarian Meals  
-https://www.themealdb.com/api/json/v1/1/filter.php?c=Vegetarian  
+"https://dummyjson.com/products/category/smartphones
 
 ---
 
@@ -57,9 +56,6 @@ api-hunter/
 ├── package.json
 └── README.md
 
-<img width="1365" height="533" alt="localhost_5174_ (2)" src="https://github.com/user-attachments/assets/fdfabac7-fd90-4f71-ad22-33046c5e034e" />
-
----
 
 ## ⚙️ How to Run the Project
 
@@ -72,4 +68,7 @@ npm run dev
 Open browser and visit:
 
 http://localhost:5173
+--
+screenshot : <img width="1920" height="1080" alt="Screenshot 2026-02-26 232517" src="https://github.com/user-attachments/assets/61897679-2402-4d8f-911b-e571e694ffbe" />
+
 
