@@ -69,6 +69,7 @@ Open browser and visit:
 
 http://localhost:5173
 --
-screenshot : <img width="1920" height="1080" alt="Screenshot 2026-02-26 232517" src="https://github.com/user-attachments/assets/61897679-2402-4d8f-911b-e571e694ffbe" />
+screenshot : <img width="1920" height="1080" alt="Screenshot 2026-02-26 232517" src="https://github.com/user-attachments/assets/83e936ba-456c-4e5f-95f8-b3117405186a" />
+
 
 
